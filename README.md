@@ -1,6 +1,9 @@
-# calculator
+# Scienditic Calculator
 
-A new Flutter project.
+# Light Mode
+![1674383203965](https://user-images.githubusercontent.com/108629629/225936044-8e60774f-2fdf-4287-9055-7cb730ae831a.jpeg)
+# Dark Mode
+![1674383204077](https://user-images.githubusercontent.com/108629629/225936116-b4fa0266-620e-447a-97a9-7a0ecee6bad5.jpeg)
 
 ## Getting Started
 
